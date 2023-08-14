@@ -1,43 +1,5 @@
 
-# z, c , *v = [1,2,3,4,5,6]
-# print(z,c,v)
 
-# print(int(4.5),float(7))
-#
-# ww = 5
-# if ww ==0:
-#     ww += 1
-# print(5/ww)
-#
-# qq = float(input("Введите число:"))
-# if qq ==0:
-#     qq ==1
-# elif type(qq) == type(3) or type(qq) == type(1.2):
-#     print("допустимое значение")
-# else:
-#     print("не допустимое значение")
-#     qq == 1
-# print(100/qq)
-import os
-import time
-
-# while True:
-#     sayt = input("Введите адрес сайта")
-#     if 'https://' in sayt:
-#         os.system('start ' + sayt)
-#         print('if')
-#     elif 'www.' in sayt:
-#         sayt = 'https://' + sayt
-#         os.system('start ' + sayt)
-#         print('elif')
-#     else:
-#         sayt = 'https://www.' + sayt
-#         os.system('start ' + sayt)
-#         print('else')
-#     break
-# os.system("start https://www.youtube.com/")
-# time.sleep(5)
-# os.startfile("C:/Users/Professional/Desktop/рглорп")
 #
 import importlib
 #
