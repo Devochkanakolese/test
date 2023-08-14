@@ -8,9 +8,9 @@ while True:
     print("Попытка:", w)
     a = int(input("Введите число:"))
     if a > q:
-        print("Меньше")
+        print("Меньше, чем ты написал")
     elif a < q:
-        print("Больше")
+        print("Больше, чем ты написал")
     else:
-        print("Угадал")
+        print("Угадал Какой модлодец")
         break
